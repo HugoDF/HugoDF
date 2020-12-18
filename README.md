@@ -1,8 +1,8 @@
 ### 👋
 
-I'm a JavaScript developer/blogger at [codewithhugo.com](https://codewithhugo.com).
+I'm a JavaScript developer and run [codewithhugo.com](https://codewithhugo.com).
 
-You've probably seen me around the Node.js/JavaScript/Testing community, where I help maintain:
+You've probably seen me around the Node.js/JavaScript/Testing community, where I help with:
 - Wes Bos' [awesome-uses](https://github.com/wesbos/awesome-uses).
 - [Alpine.js Weekly Newsletter](https://alpinejs.codewithhugo.com/newsletter)
 - [Alpine.js devtools](https://github.com/alpine-collective/alpinejs-devtools)
