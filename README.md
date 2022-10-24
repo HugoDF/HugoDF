@@ -10,7 +10,7 @@ You've probably seen me around the Node.js/JavaScript/Testing community, where I
 
 About me:
 
-- 📚 I blog at [codewithhugo.com](https://codewithhugo.com), recently published [The Jest Handbook](https://jesthandbook.com) and am now working on [The Alpine.js Handbook](https://alpinejs.codewithhugo.com/handbook)
+- 📚 I blog at [codewithhugo.com](https://codewithhugo.com), recently published [The Jest Handbook](https://jesthandbook.com).
 - 🔭 find me hovering around the Alpine.js repository with code contributions, comments in GitHub Issues, the community Discord and [StackOverflow](https://stackoverflow.com/tags/alpine.js/topusers).
 - 💬 Ask me about: JavaScript, Alpine.js, Node.js, React, Testing
 - 📫 How to reach me: on Twitter, [@hugo__df](https://twitter.com/hugo__df)
