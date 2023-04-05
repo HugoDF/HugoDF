@@ -14,4 +14,4 @@ About me:
 - 🔭 find me hovering around the Alpine.js repository with code contributions, comments in GitHub Issues, the community Discord and [StackOverflow](https://stackoverflow.com/tags/alpine.js/topusers).
 - 💬 Ask me about: JavaScript, Alpine.js, Node.js, React, Testing
 - 📫 How to reach me: on Twitter, [@hugo__df](https://twitter.com/hugo__df)
-- 🤔 I’m looking for some [Sponsors](https://github.com/sponsors/HugoDF) to make running the Alpine.js Newsletter, Open Source work and [the Alpine.js Handbook](https://alpinejs.codewithhugo.com/handbook) a reality.
+- 🤔 I’m looking for some [Sponsors](https://github.com/sponsors/HugoDF) to keep running the Alpine.js Newsletter
