@@ -8,5 +8,5 @@ About me:
 
 - 📚 I blog at [codewithhugo.com](https://codewithhugo.com), recently published [The Jest Handbook](https://jesthandbook.com).
 - 💬 Ask me about: JavaScript, Alpine.js, Node.js, React, Testing, technical leadership 
-- 📫 How to reach me: on Bluesky, [@codewithhugdewithhugo.com](https://bsky.app/profile/codewithhugo.com)
+- 📫 How to reach me: on Bluesky, [@codewithhugo.com](https://bsky.app/profile/codewithhugo.com)
 - 🤔 I’m looking for some [Sponsors](https://github.com/sponsors/HugoDF)
